@@ -2,7 +2,7 @@
 
 A very rough draft of:
 
-A tool to generate an [SFZ file](https://sfzformat.com) and sample set compatiable with [AudioKit](https://audiokit.io)'s [AKSampler](https://audiokit.io/docs/Classes/AKSampler.html) from a folder of AIFF files created using MainStage 3's Auto Sampler feature. My main sound sources (for now) are software synths in Ableton Live, but this process will work for sampling hardware synths, or any software synth which can act as a Rewire Device.
+A tool to generate an [SFZ file](https://sfzformat.com) and sample set compatible with [AudioKit](https://audiokit.io)'s [AKSampler](https://audiokit.io/docs/Classes/AKSampler.html) from a folder of AIFF files created using MainStage 3's Auto Sampler feature. My main sound sources (for now) are software synths in Ableton Live, but this process will work for sampling hardware synths, or any software synth which can act as a Rewire Device.
 
 ## Next Steps
 
